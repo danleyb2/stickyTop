@@ -1,0 +1,7 @@
+.button{
+    -fx-border-style: hidden;
+    -fx-border-insets: 0px;
+    -fx-border-radius: 0;
+    -fx-border-width: 0;
+    -fx-background-color: inherit;
+}
