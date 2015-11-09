@@ -5,6 +5,7 @@ so i created one using javafx as a test exercise.<br>
 
 ##To try it out
 - Have **java** installed.
+- Download `jar` file [V1.0.0](https://github.com/danleyb2/stickyTop/releases/download/v1.0.0/StickyNotes.jar)
 - Run `java -jar StickyNotes.jar`
 
 ##Screenshot.
