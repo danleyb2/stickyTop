@@ -14,9 +14,12 @@ import javafx.stage.StageStyle;
  */
 public class Note {
 
-    public Note() {
+    public Note(double posX,double posY) {
         try {
-            new Main().start(new Stage());
+            Stage stage=new Stage();
+            stage.setX(posX);
+            stage.setY(posY);
+            new Main().start(stage);
         }catch (Exception e){
 
         }
